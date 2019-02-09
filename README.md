@@ -1,2 +1,2 @@
 # HackBU
-The boys hack binghamton
+The boys hack binghamton.
